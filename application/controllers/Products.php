@@ -20,7 +20,7 @@ class Products extends CI_Controller {
     public function index()
     {
         $viewData = new stdClass();
-        /** veritabanından verilerin model tablosunda yazıldıktan sonra ekrana basılması için */
+        /** veritabanından verilerin model tablosunda yazılddıktan sonra ekrana basılması için */
         $items = $this->product_model->get_all();
 
         /** view gönderileceklerin ekrana basılması */

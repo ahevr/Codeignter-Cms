@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="090585cc-b9df-436e-88c6-23d8c4156967" name="Default Changelist" comment="" />
+    <list default="true" id="090585cc-b9df-436e-88c6-23d8c4156967" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/application/controllers/Products.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/Products.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +36,7 @@
     <setting file="file://$PROJECT_DIR$/application/views/member_v/add/content.php" root0="SKIP_HIGHLIGHTING" root1="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1UVWPxzhnlQxu5H1rmpTrMxIf6S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -116,6 +119,7 @@
       <workItem from="1580112862559" duration="965000" />
       <workItem from="1580202877167" duration="17396000" />
       <workItem from="1580536449986" duration="1673000" />
+      <workItem from="1580538136994" duration="385000" />
     </task>
     <task id="LOCAL-00001" summary="yeni geliştirmer + ürünler yüklendi">
       <created>1580535836131</created>
